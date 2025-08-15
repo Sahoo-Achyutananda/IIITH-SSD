@@ -7,7 +7,7 @@ q1.sql - Stored procedure ListAllSubscribers() that uses a cursor to iterate thr
 q2.sql - Stored procedure GetWatchHistoryBySubscriber(IN sub_id INT) that returns all shows watched by the subscriber along with watch time.
 q3.sql - Stored procedure AddSubscriberIfNotExists(IN subName VARCHAR(100)) that adds a subscriber if they don't already exist.
 q4.sql - Stored procedure SendWatchTimeReport() that loops over subscribers who have watched something and calls GetWatchHistoryBySubscriber().
-q5.sql - Stored procedure ListAllSubscribersWatchHistory() that loops over ALL subscribers and calls GetWatchHistoryBySubscriber().
+q5.sql - Stored procedure SendWatchTimeReportAllSubscribers() that loops over ALL subscribers and calls GetWatchHistoryBySubscriber().
 
 README.txt - This file containing execution steps and repository link.
 
@@ -75,6 +75,10 @@ README.txt - This file containing execution steps and repository link.
 5. Verify output in MySQL Workbench "result" tabs.
 
 ----------------------------------------------------
-3. Git Repository Link:
+3. Git Repository Links:
 ----------------------------------------------------
-<Insert your GitHub / GitLab repository link here>
+SSD LAB 2 Activity Link : https://github.com/Sahoo-Achyutananda/IIITH-SSD/tree/main/LAB/SSD%20LAB%202
+SSD Repo : https://github.com/Sahoo-Achyutananda/IIITH-SSD
+My Profile : https://github.com/Sahoo-Achyutananda
+
+
