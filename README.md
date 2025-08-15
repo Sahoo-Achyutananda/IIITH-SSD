@@ -7,9 +7,9 @@ It includes assignments, lab/tutorial activities, and take-home activities.
 
 ## 📌 Assignment Links
 
-| Assignment No. | Title / Description | Link                 |
-| -------------- | ------------------- | -------------------- |
-| Assignment 1   | SQL and noSQL       | [View](assignment1/) |
+| Assignment No. | Title / Description | Link                                                                            |
+| -------------- | ------------------- | ------------------------------------------------------------------------------- |
+| Assignment 1   | SQL and noSQL       | [View](https://github.com/Sahoo-Achyutananda/IIITH-SSD/tree/main/ASSIGNMENT/A1) |
 
 ## 🧪 Lab & Tutorial Activity Links
 
