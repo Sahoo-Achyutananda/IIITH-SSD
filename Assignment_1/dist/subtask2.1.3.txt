@@ -1,0 +1,10 @@
+PS C:\Users\SAHOO\Desktop\dist> git add .
+PS C:\Users\SAHOO\Desktop\dist> git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   distance.cpp
+        new file:   point.h

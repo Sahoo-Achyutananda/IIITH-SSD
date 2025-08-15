@@ -1,0 +1,3 @@
+PS C:\Users\SAHOO\Desktop\dist> git commit -m "Converted Euclidean to Manhattan"
+[manhattan c97b638] Converted Euclidean to Manhattan
+ 1 file changed, 1 insertion(+), 1 deletion(-)

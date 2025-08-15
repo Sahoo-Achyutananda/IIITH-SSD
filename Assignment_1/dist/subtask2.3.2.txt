@@ -1,0 +1,9 @@
+PS C:\Users\SAHOO\Desktop\dist> git status
+On branch manhattan
+nothing to commit, working tree clean
+PS C:\Users\SAHOO\Desktop\dist> git log
+commit 960f8df598744d3895c333f6b53b2a01fec3c133 (HEAD -> manhattan, master)
+Author: ACHYUTANANDA-SAHOO <sahoo.official.work@gmail.com>
+Date:   Thu Aug 7 17:36:38 2025 +0530
+
+    Euclidean Distance Code

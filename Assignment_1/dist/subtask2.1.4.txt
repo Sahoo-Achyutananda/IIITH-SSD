@@ -1,0 +1,6 @@
+PS C:\Users\SAHOO\Desktop\dist> git commit -m "Euclidean Distance Code"
+
+[master (root-commit) 960f8df] Euclidean Distance Code
+ 2 files changed, 24 insertions(+)
+ create mode 100644 distance.cpp
+ create mode 100644 point.h

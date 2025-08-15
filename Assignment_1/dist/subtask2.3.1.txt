@@ -1,0 +1,9 @@
+PS C:\Users\SAHOO\Desktop\dist> git reset --soft HEAD~1
+PS C:\Users\SAHOO\Desktop\dist> git status
+On branch manhattan
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   distance.cpp
+
+PS C:\Users\SAHOO\Desktop\dist> git reset --hard       
+HEAD is now at 960f8df Euclidean Distance Code
